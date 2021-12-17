@@ -8,3 +8,6 @@ For example, if the user types in 4, the program should print 100 (since 1^3 + 2
 """
 
 #write your code here
+n = int(input("How many positive cubes do you want to calculate the sum of? "))
+
+for i in range()
